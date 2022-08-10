@@ -2,11 +2,13 @@
   <h1>Hi there, I am Bhavya Wahie 👋</h1>
 </div>
 
+<p>
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
 - 🎯 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to draw ✏️ 
+  </p>
 
 
  <img align="right" width="400px" src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
