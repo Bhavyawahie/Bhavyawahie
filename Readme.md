@@ -6,5 +6,5 @@
 - 🎯 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to draw ✏️ 
 
-<img align="left" alt="Bhavyawahie GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhavyawahie&show_icons=true&hide_border=true" />
+<img align="left" alt="Bhavyawahie GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhavyawahie&show_icons=true" />
 <img align="left" alt="Bhavyawahie Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavyawahie&show_icons=true&locale=en&layout=compact"/>
