@@ -1,4 +1,4 @@
-<a href="https://github.com/Bhavyawahie"><img align='right' src='https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png' width='200"'></a></h2>
+<a href="https://github.com/Bhavyawahie"><img align='right' src='https://github.com/Bhavyawahie/Bhavyawahie/blob/master/vector%20-%20Edited.png' width='200"'></a></h2>
 
 <div align="center">
   <h1>Hi there, I am Bhavya Wahie 👋</h1>
