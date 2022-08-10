@@ -1,18 +1,16 @@
+<a href="https://github.com/Bhavyawahie"><img align='right' src='https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png' width='200"'></a></h2>
+
 <div align="center">
   <h1>Hi there, I am Bhavya Wahie 👋</h1>
 </div>
 
-<p>
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning everything 😂
-- 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: Contribute more to open source projects
-- ⚡ Fun fact: I love to draw ✏️ 
-  </p>
+<br>
 
-
- <img align="right" width="400px" src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
-
+- 🔭 I’m currently working on something cool 😉 <br>
+- 🌱 I’m currently learning everything 😂 <br>
+- 👯 I’m looking to collaborate with other content creators <br>
+- 🎯 2022 Goals: Contribute more to open source projects <br>
+- ⚡ Fun fact: I love to draw ✏️ <br>
 
 
 <div align="center">
