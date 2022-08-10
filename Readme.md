@@ -2,6 +2,10 @@
   <h1>Hi there, I am Bhavya Wahie 👋</h1>
 </div>
 
+<div align="right">
+  <img src="" alt="Bhavyawahie vector"/>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/bhavyawahie">
