@@ -3,7 +3,7 @@
 </div>
 
 <div align="right">
-  <img src="" alt="Bhavyawahie vector"/>
+  <img src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
 </div>
 
 
