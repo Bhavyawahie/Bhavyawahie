@@ -8,9 +8,9 @@
 - 🎯 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to draw ✏️ 
 
-<span align="right">
-  <img src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
-</span>
+
+ <img align="right" src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
+
 
 
 <div align="center">
