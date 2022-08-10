@@ -1,4 +1,4 @@
-### Hi there, I am Kunal Tyagi 👋
+### Hi there, I am Bhavya Wahie 👋
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
