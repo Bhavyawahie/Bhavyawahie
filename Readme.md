@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw ✏️ 
 
 
- <img align="right" width="40px" src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
+ <img align="right" width="400px" src="https://github.com/Bhavyawahie/Bhavyawahie/blob/master/BHAVYA%20LOGO%20VECTOR%20(1)%20-%20Edited.png" alt="Bhavyawahie vector"/>
 
 
 
