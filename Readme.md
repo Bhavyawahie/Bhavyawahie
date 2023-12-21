@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on something cool 😉 <br>
 - 🌱 I’m currently learning everything 😂 <br>
 - 👯 I’m looking to collaborate with other content creators <br>
-- 🎯 2022 Goals: Contribute more to open source projects <br>
+- 🎯 2024 Goals: Contribute more to open source projects <br>
 - ⚡ Fun fact: I love to draw ✏️ <br>
 
 
